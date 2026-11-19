@@ -1,0 +1,18 @@
+C:\Users\Булат\Desktop\Курсовой Проект (такси)\Курсовой Проект (такси)\bin\Debug\net8.0-windows\Курсовой Проект (такси).exe
+C:\Users\Булат\Desktop\Курсовой Проект (такси)\Курсовой Проект (такси)\bin\Debug\net8.0-windows\Курсовой Проект (такси).deps.json
+C:\Users\Булат\Desktop\Курсовой Проект (такси)\Курсовой Проект (такси)\bin\Debug\net8.0-windows\Курсовой Проект (такси).runtimeconfig.json
+C:\Users\Булат\Desktop\Курсовой Проект (такси)\Курсовой Проект (такси)\bin\Debug\net8.0-windows\Курсовой Проект (такси).dll
+C:\Users\Булат\Desktop\Курсовой Проект (такси)\Курсовой Проект (такси)\bin\Debug\net8.0-windows\Курсовой Проект (такси).pdb
+C:\Users\Булат\Desktop\Курсовой Проект (такси)\Курсовой Проект (такси)\obj\Debug\net8.0-windows\Курсовой_Проект__такси_.Form1.resources
+C:\Users\Булат\Desktop\Курсовой Проект (такси)\Курсовой Проект (такси)\obj\Debug\net8.0-windows\Курсовой Проект (такси).csproj.GenerateResource.cache
+C:\Users\Булат\Desktop\Курсовой Проект (такси)\Курсовой Проект (такси)\obj\Debug\net8.0-windows\Курсовой Проект (такси).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Булат\Desktop\Курсовой Проект (такси)\Курсовой Проект (такси)\obj\Debug\net8.0-windows\Курсовой Проект (такси).AssemblyInfoInputs.cache
+C:\Users\Булат\Desktop\Курсовой Проект (такси)\Курсовой Проект (такси)\obj\Debug\net8.0-windows\Курсовой Проект (такси).AssemblyInfo.cs
+C:\Users\Булат\Desktop\Курсовой Проект (такси)\Курсовой Проект (такси)\obj\Debug\net8.0-windows\Курсовой Проект (такси).csproj.CoreCompileInputs.cache
+C:\Users\Булат\Desktop\Курсовой Проект (такси)\Курсовой Проект (такси)\obj\Debug\net8.0-windows\Курсовой Проект (такси).dll
+C:\Users\Булат\Desktop\Курсовой Проект (такси)\Курсовой Проект (такси)\obj\Debug\net8.0-windows\refint\Курсовой Проект (такси).dll
+C:\Users\Булат\Desktop\Курсовой Проект (такси)\Курсовой Проект (такси)\obj\Debug\net8.0-windows\Курсовой Проект (такси).pdb
+C:\Users\Булат\Desktop\Курсовой Проект (такси)\Курсовой Проект (такси)\obj\Debug\net8.0-windows\Курсовой Проект (такси).genruntimeconfig.cache
+C:\Users\Булат\Desktop\Курсовой Проект (такси)\Курсовой Проект (такси)\obj\Debug\net8.0-windows\ref\Курсовой Проект (такси).dll
+C:\Users\Булат\Desktop\Курсовой Проект (такси)\Курсовой Проект (такси)\obj\Debug\net8.0-windows\Курсовой_Проект__такси_.Dispatcher.resources
+C:\Users\Булат\Desktop\Курсовой Проект (такси)\Курсовой Проект (такси)\obj\Debug\net8.0-windows\Курсовой_Проект__такси_.Taxi.resources
